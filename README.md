@@ -16,7 +16,7 @@
 
 ## 📂 Projetos
 
-- Projeto 1 (em breve)
+- [Relatório de Análise de Vendas no Power BI] (https://github.com/rafaeloliveira31/relatorio-vendas-powerbi)
 
 ## ✍️ Sobre mim
 
