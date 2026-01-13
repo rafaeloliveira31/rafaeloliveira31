@@ -17,6 +17,8 @@
 ## 📂 Projetos
 
 - [Relatório de Análise de Vendas no Power BI] (https://github.com/rafaeloliveira31/relatorio-vendas-powerbi)
+- [Análise de Entregas - Produtos Amazon] (https://github.com/rafaeloliveira31/analise-entregas-produtos-amazon)
+- [Marketing Performance - Google Ads] (https://github.com/rafaeloliveira31/marketing-performance-google-ads)
 
 ## ✍️ Sobre mim
 
